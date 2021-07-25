@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="scan">扫码</string>
+    <string name="pboto_manage">照片管理</string>
+    <string name="login">登陆</string>
+    <string name="regist">注册</string>
+    <string name="forget_passwd">忘记密码</string>
+    <string name="enter_passwd">请输入密码</string>
+    <string name="confirm_passwd">请确认密码</string>
+    <string name="enter_username">请输入用户名</string>
+    <string name="sys_name">智能视觉识别管理系统</string>
+    <string name="regist_welcome">欢迎注册智能视觉识别管理系统</string>
+</resources>

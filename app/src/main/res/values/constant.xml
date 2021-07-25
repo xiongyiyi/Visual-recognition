@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 设置弹框提示 -->
+    <string name="loginOK">登录成功</string>
+    <string name="loginFAIL">账号或者密码有误，请重新登陆</string>
+    <string name="NullNOTE">账号或者密码不能为空，请重新输入</string>
+    <string name="ADMIN_OK">登陆管理员账户成功</string>
+    <string name="REGIST_NOTE">请登陆管理员账户注册新用户</string>
+    <string name="FORGET_NOTE">请登陆管理员账户找回密码</string>
+
+    <string name="DIFFERENT">两次输入密码不一致</string>
+
+    <string name="REGIST_FAIL">用户名已存在，注册失败</string>
+    <string name="REGISTOK">注册成功</string>
+
+</resources>
